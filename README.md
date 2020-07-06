@@ -2,7 +2,7 @@
 
 ###### 2020년 7월 25일에 진행되었던 C++ Korea 7회 세미나 발표 자료 및 예제 코드
 
-(로고 추가 예정)
+<img src="./Logo.png">
 
 [C++ Korea](https://www.facebook.com/groups/cppkorea/)에서 7번째로 주최하는 "게임 개발 타임(가제)" 세미나는 C++으로 게임을 개발하는 분들을 위해 여러 지식들을 공유합니다.
 
